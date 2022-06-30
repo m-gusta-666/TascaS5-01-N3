@@ -11,7 +11,7 @@ GET http://localhost:9002/flor/clientFlorsGetOne/{id}
 
 POST http://localhost:9002/flor/clientFlorsAdd
 
-PUT http://localhost:9002/flor/clientFlorsUpdate
+PUT http://localhost:9002/flor/clientFlorsUpdate/{id}
 
 DELETE http://localhost:9002/flor/clientFlorsDelete/{id}
 
